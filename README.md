@@ -1,2 +1,2 @@
 # catsandai-blog
-An informal development log capturing experiments, thoughts, and the chaos behind Gar²Dar’s creation.
+A personal blog project to help me develop skills.
